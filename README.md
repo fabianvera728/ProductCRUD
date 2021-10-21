@@ -18,7 +18,7 @@ Manage your products
 ## 📷 Screenshots
 <div align="center">
   <center>
-    <img width="1300" height="" src='https://svgshare.com/i/bNN.svg' title='Abueamigos' />
+    <img width="1300" height="" src='./assets/ProductCRUD.png' title='Abueamigos' />
   </center>
 </div>
 
